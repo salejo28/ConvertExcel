@@ -1,0 +1,19 @@
+{
+  "name": "exceltojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "xlsx": "^0.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
